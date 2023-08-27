@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing my knowledge of frontend and backend technologies to become a junior full-stack developer. <br>👯 I’m looking to collaborate on projects related to C#, .NET, JavaScript, React, SQL, Python.<br>🤝 I’m looking for help with developing my tech skills and starting career in IT.<br>🌱 I’m currently learning React and working on app for booking meetings.<br>⚡ Fun fact: I'm a junior shuffle and electro-swing dancer. Currently on a path to become a mid :)
+🔭 I’m working on developing my knowledge of frontend and backend technologies to become a junior full-stack developer. <br>👯 I’m looking to collaborate on projects related to C#, .NET, JavaScript, React, SQL, Python.<br>🤝 I’m looking for help with developing my tech skills and starting career in IT.<br>🌱 I’m currently learning React and working on app for booking meetings.<br>⚡ Fun fact: I'm a junior shuffle and electro-swing dancer. Currently on a path to become a mid :)
 
 
 ## 🌐 Socials:
